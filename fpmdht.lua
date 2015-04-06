@@ -20,7 +20,7 @@ sensorType="dht11" 	-- set sensor type dht11 or dht22
 	temp="XX"
 	fare="XX"
 	count=1
-	PIN = 1 --  data pin, GPIO2
+	PIN = 1 --  data pin, GPIO5
 --load DHT module and read sensor
 
 function ReadDHT()
